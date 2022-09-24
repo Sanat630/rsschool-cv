@@ -1,7 +1,7 @@
 # Abdunazarov Sanat 
 
 ##  Frontend developer 21 y.o
----------
+--------
 
 ## Contact:
 > <sanatabdunazarov@gmail.com> 
